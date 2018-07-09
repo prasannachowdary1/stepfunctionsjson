@@ -4,7 +4,7 @@
   "States": {
     "HelloWorld": {
       "Type": "Pass",
-      "Result": "Hello World testing clI second time!",
+      "Result": "Hello World testing clI Third time!",
       "End": true
     }
   }
